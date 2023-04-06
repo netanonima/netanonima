@@ -14,7 +14,7 @@
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=netanonima&theme=dark" width="425" /> 
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netanonima" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netanonima&theme=dark" />
     <br>
 </div>
 <br>
