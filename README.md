@@ -12,7 +12,7 @@
 <div align="center">
     <h1>Stats</h1>
     <br>
-    <table>
+    <table style="border: none;">
         <tr>
             <td>
                 <img src="https://github-readme-streak-stats.herokuapp.com?user=netanonima&theme=dark" width="425" /> 
