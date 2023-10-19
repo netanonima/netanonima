@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Welcome</h1>
     <div>
-    <p>I'm a 3<sup>rd</sup> year software developer apprentice working on Web Applications.</p>
+    <p>I'm a 4<sup>th</sup> year software developer apprentice working on Web Applications.</p>
     <p>My interests are: music, greek mythology, current affairs, hi-tech news, video games, reading, traveling and programming.</p>
     <p>I was born and I'm living in 🇨🇭. I speak 🇫🇷 🇪🇸 🇮🇹 🇺🇸</p>
     </div>
